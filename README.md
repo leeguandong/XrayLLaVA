@@ -1,4 +1,4 @@
-## XrayQwenVL
+## XrayLLaVA
 
 Xray Large Multi-model Model，基于LLaVA微调Xray的多模态大模型，在4张V100上基于llava1d6-mistral-7b-instruct模型微调。LLaVA是多模态大语言模型中最流行的模型方法和架构，微调LLaVA有助于我们衡量和对比在垂类场景训练多模态大语言模型的可能。
 
